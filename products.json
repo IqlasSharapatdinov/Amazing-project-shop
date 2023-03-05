@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Nike futbolka",
+        "price": 5000.99,
+        "image": { "fields": { "file": { "url": "img/25.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Nike sneaker",
+        "price": 8000.99,
+        "image": { "fields": { "file": { "url": "img/12.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Cucci bag",
+        "price": 15000.99,
+        "image": { "fields": { "file": { "url": "img/3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Rebook sneaker",
+        "price": 7000.99,
+        "image": { "fields": { "file": { "url": "img/4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Nike bas kiyim",
+        "price": 3000.99,
+        "image": { "fields": { "file": { "url": "img/5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Adidas barsetka",
+        "price": 4000.99,
+        "image": { "fields": { "file": { "url": "img/9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "North face kurtka",
+        "price": 18000.99,
+        "image": { "fields": { "file": { "url": "img/8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Adidas both",
+        "price": 17000.99,
+        "image": { "fields": { "file": { "url": "img/14.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Lacoste",
+        "price": 10000.99,
+        "image": { "fields": { "file": { "url": "img/26.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Armani futbolka",
+        "price": 9000.99,
+        "image": { "fields": { "file": { "url": "img/24.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Bershka",
+        "price": 8000.99,
+        "image": { "fields": { "file": { "url": "img/7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "LC Waikiki",
+        "price": 15000.99,
+        "image": { "fields": { "file": { "url": "img/6.jpg" } } }
+      }
+    }
+  ]
+}
